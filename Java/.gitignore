@@ -1,0 +1,7 @@
+*.class
+temp/*
+out/*
+build/*
+run/*
+.idea/*
+*.iml
